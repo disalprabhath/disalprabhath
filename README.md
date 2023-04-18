@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://computer-tips97.blogspot.com/](https://computer-tips97.blogspot.com/)
 
-- 📫 How to reach me **Disal,p,b@gmail.com**
+- 📫 How to reach me **Disal.p.b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
