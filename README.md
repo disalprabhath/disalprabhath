@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disal Prabhath</h1>
-<h3 align="center">A passionate Software and Website developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software and Web developer from Sri Lanka</h3>
 
 - 📝 I regularly write articles on [https://computer-tips97.blogspot.com/](https://computer-tips97.blogspot.com/)
 
