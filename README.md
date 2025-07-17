@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Disal Prabhath</h1>
 <h3 align="center">software engineer from Sri Lanka</h3>
 
-- 📝 I regularly write articles on [https://computer-tips97.blogspot.com/](https://computer-tips97.blogspot.com/)
-
 - 📫 How to reach me **Disal.p.b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
